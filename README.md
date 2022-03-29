@@ -11,7 +11,6 @@
  
 🔥 **Linguagens/Bibliotecas/Tecnologias de Programação** com as quais trabalho e estou aprendendo:
 
-<code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" /></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" /></code>
